@@ -1,0 +1,11 @@
+//#include <stdio.h>
+
+//int main()
+//{
+//	int val = 21;
+//	int val_minus = -30;
+//
+//	float fnum = 120.625;
+//
+//	return 0;
+//}
